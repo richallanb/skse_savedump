@@ -9,4 +9,7 @@ Very useful if you have a long list of mods and somehow corrupt the order.
 To compile:
 
 g++ -o skse_dump skse_dump.cpp
+
+To run:
+
 skse_dump SKSE_SaveFile.save dump.txt
